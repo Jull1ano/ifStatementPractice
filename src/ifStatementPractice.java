@@ -1,7 +1,7 @@
 public class ifStatementPractice {
     public static void main(String[] args) {
 
-        int num = 20;
+        int num = 4000;
 
         if (num <= 300) {
             if (num == 300) {
